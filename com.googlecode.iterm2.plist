@@ -1167,7 +1167,7 @@
 			<key>Window Type</key>
 			<integer>0</integer>
 			<key>Working Directory</key>
-			<string>/Users/maxholdaway</string>
+			<string>[PWD]</string>
 		</dict>
 	</array>
 	<key>NoSyncFrame_SharedPreferences</key>
