@@ -228,7 +228,7 @@
 	<key>HotkeyMigratedFromSingleToMulti</key>
 	<true/>
 	<key>LoadPrefsFromCustomFolder</key>
-	<true/>
+	<false/>
 	<key>NSNavLastRootDirectory</key>
 	<string>~/Desktop/beedeer</string>
 	<key>NSNavPanelExpandedSizeForOpenMode</key>
@@ -1167,7 +1167,7 @@
 			<key>Window Type</key>
 			<integer>0</integer>
 			<key>Working Directory</key>
-			<string>[PWD]</string>
+			<string>/Users/maxholdaway</string>
 		</dict>
 	</array>
 	<key>NoSyncFrame_SharedPreferences</key>
